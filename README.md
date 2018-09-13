@@ -12,3 +12,4 @@ b2commit6
 =======
 >>>>>>> master
 >>>>>>> b1
+commit7
